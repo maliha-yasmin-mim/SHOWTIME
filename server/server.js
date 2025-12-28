@@ -22,7 +22,7 @@ app.use(clerkMiddleware())
 
 
 // API Routes
-app.get("/", (req, res) => res.send("Server is Live!"));
+app.get("/", (req, res) => res.send("Server is Live and best!"));
 app.use("/api/inngest", serve({ client: inngest, functions }));
 
 
