@@ -16,7 +16,7 @@ const HeroSection = () => {
                 
                 
                 {/* Main Heading */}
-                <h1 className='text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight'>
+                <h1 className='text-5xl mt-30 md:text-7xl lg:text-8xl font-bold mb-6 leading-tight'>
                     <span className="block text-gray-300">Where Every</span>
                     <span className="bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 bg-clip-text text-transparent">
                         Seat Tells
