@@ -112,7 +112,7 @@ const sendBookingConfirmationEmail = inngest.createFunction(
           ).toLocaleTimeString("en-US", { timeZone: "Africa/Kigali" })}
         </p>
         <p>Enjoy the show! 🍿</p>
-        <p>Thanks for booking with us!<br />- QuickShow Team</P>
+        <p>Thanks for booking with us!<br />- ShowTime Team</P>
       </div>`,
     });
   }
@@ -186,7 +186,7 @@ const sendShowReminders = inngest.createFunction(
         </p>
         <p>It starts in approximately <strong>8 hours</strong> - make sure you're ready!</p>
         <br />
-        <p>Enjoy the show! 🍿 - QuickShow Team</P>
+        <p>Enjoy the show! 🍿 - ShowTime Team</P>
       </div>`,
           })
         )
@@ -222,9 +222,9 @@ const sendNewShowNotifications = inngest.createFunction(
         <h2>Hi ${userName},</h2>
         <p>We've just added a new show to our library:</p>
         <h3 style="color: #F84565;">"${movieTitle}"</h3>
-        <p>Visit our website - <a href="https://quickshow-sigma-roan.vercel.app/">QuickShow</a> 🔗</p>
+        <p>Visit our website - <a href="https://quickshow-sigma-roan.vercel.app/">ShowTime</a> 🔗</p>
         <br />
-        <p>Thanks, <br />QuickShow Team</p>
+        <p>Thanks, <br />ShowTime Team</p>
       </div>`;
 
       await sendEmail({
@@ -246,9 +246,12 @@ const sendNewShowNotifications = inngest.createFunction(
 
 
 
-
-export const functions = [syncUserCreation , syncUserDeletion , 
-syncUserUpdation, releaseSeatsAndDeleteBooking, sendBookingConfirmationEmail
-
-
+export const functions = [
+  syncUserCreation,
+  syncUserDeletion,
+  syncUserUpdation,
+  releaseSeatsAndDeleteBooking,
+  sendBookingConfirmationEmail,
+  sendShowReminders,
+  sendNewShowNotifications,
 ];
