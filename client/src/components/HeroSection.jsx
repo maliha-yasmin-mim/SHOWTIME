@@ -21,8 +21,8 @@ const HeroSection = () => {
                     <span className="bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 bg-clip-text text-transparent">
                         Seat Tells
                     </span>
-                    <span className="bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-                        A Story
+                    <span className="bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-500 ml-3  bg-clip-text text-transparent">
+                         A Story
                     </span>
                 </h1>
                 
