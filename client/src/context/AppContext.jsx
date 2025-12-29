@@ -4,7 +4,7 @@ import { useAuth, useUser } from "@clerk/clerk-react";
 import { useLocation, useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 
-axios.defaults.baseURL = import.meta.env.VITE_BASE_URL;
+axios.defaults.baseURL =  import.meta.env.VITE_BASE_URL
 
 export const AppContext = createContext();
 
@@ -88,7 +88,8 @@ export const AppProvider = ({ children }) => {
     shows,
     favoriteMovies,
     fetchFavoriteMovies,
-    image_base_url,
+    image_base_url
+    
   };
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;
