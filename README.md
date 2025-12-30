@@ -305,12 +305,6 @@ vercel
 
 ---
 
-**If you found this project helpful, please give it a star!**
-
-[![Stars](https://img.shields.io/github/stars/maliha-yasmin-mim/SHOWTIME?style=for-the-badge&logo=github&color=gold&label=GIVE%20A%20STAR)](https://github.com/maliha-yasmin-mim/SHOWTIME/stargazers)
-
----
-
 **Happy Coding!** 🎬🍿
 
 ```
