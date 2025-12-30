@@ -222,7 +222,7 @@ const sendNewShowNotifications = inngest.createFunction(
         <h2>Hi ${userName},</h2>
         <p>We've just added a new show to our library:</p>
         <h3 style="color: #F84565;">"${movieTitle}"</h3>
-        <p>Visit our website - <a href="https://quickshow-sigma-roan.vercel.app/">ShowTime</a> 🔗</p>
+        <p>Visit our website - <a href="https://showtime-eta.vercel.app/">ShowTime</a> 🔗</p>
         <br />
         <p>Thanks, <br />ShowTime Team</p>
       </div>`;

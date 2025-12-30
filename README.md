@@ -1,9 +1,13 @@
 # 🎬 ShowTime - Movie Ticket Booking System
 
-![ShowTime Banner](https://i.imgur.com/YOUR_BANNER_IMAGE_HERE.jpg)
+## 🌐 Live Demo: [showtime-eta.vercel.app](https://showtime-eta.vercel.app/)
+
+![ShowTime Banner](https://raw.githubusercontent.com/maliha-yasmin-mim/SHOWTIME/main/Project_Screenshots/User_pages_image/01-Home_page/01-homepage.png)
 
 ## 📋 Overview
-**ShowTime** is a full-featured, production-ready movie ticket booking platform built with the MERN stack. This application allows users to browse movies, select seats, book tickets, and make payments seamlessly. Admins can manage shows, view bookings, and track revenue through a dedicated dashboard.
+**ShowTime** is a full-featured, production-ready movie ticket booking platform built with the MERN stack. This application allows users to browse movies, select seats, book tickets, and make payments seamlessly. 
+
+**For administrators**, the platform includes a comprehensive dashboard to manage shows, track bookings, monitor revenue, and oversee the entire ticketing system with real-time analytics and control.
 
 ## ✨ Features
 
@@ -33,27 +37,43 @@
 - 🎥 Real movie data from TMDB API
 
 ## 🖼️ Screenshots
+## ✨User Pages
 
 ### Home Page
-![Home Page](YOUR_HOME_SCREENSHOT_LINK_HERE)
+![Home Page](https://raw.githubusercontent.com/maliha-yasmin-mim/SHOWTIME/main/Project_Screenshots/User_pages_image/01-Home_page/01-homepage.png)
+
+### Trailer Section
+![Trailer Section](https://github.com/maliha-yasmin-mim/SHOWTIME/blob/main/Project_Screenshots/User_pages_image/01-Home_page/03-homepage.png?raw=true)
 
 ### Movies Page
-![Movies Page](YOUR_MOVIES_SCREENSHOT_LINK_HERE)
+![Movies Page](https://raw.githubusercontent.com/maliha-yasmin-mim/SHOWTIME/main/Project_Screenshots/User_pages_image/02-Buy_Tickets/01-Select_movie_from_movies_page.png)
 
 ### Movie Details
-![Movie Details](YOUR_MOVIE_DETAILS_SCREENSHOT_LINK_HERE)
+![Movie Details](<https://raw.githubusercontent.com/maliha-yasmin-mim/SHOWTIME/main/Project_Screenshots/User_pages_image/02-Buy_Tickets/02-Movie_details(click_buy_now).png>)
 
 ### Seat Selection
-![Seat Selection](YOUR_SEAT_SELECTION_SCREENSHOT_LINK_HERE)
+![Seat Selection](https://raw.githubusercontent.com/maliha-yasmin-mim/SHOWTIME/main/Project_Screenshots/User_pages_image/02-Buy_Tickets/04-Select_time_and_seats.png)
 
-### Booking Page
-![Booking Page](YOUR_BOOKING_SCREENSHOT_LINK_HERE)
+### Payment
+![Payment](https://raw.githubusercontent.com/maliha-yasmin-mim/SHOWTIME/main/Project_Screenshots/User_pages_image/02-Buy_Tickets/05-Payment_page.png)
+
+### My Bookings
+![My Bookings](https://github.com/maliha-yasmin-mim/SHOWTIME/blob/main/Project_Screenshots/User_pages_image/03-My_bookings_page/01-My_bookings_page.png?raw=true)
+
+## ✨Admin Pages
 
 ### Admin Dashboard
-![Admin Dashboard](YOUR_ADMIN_DASHBOARD_SCREENSHOT_LINK_HERE)
+![Admin Dashboard](https://github.com/maliha-yasmin-mim/SHOWTIME/blob/main/Project_Screenshots/Admin_pages_image/01-Dashboard/01-Dashboard.png?raw=true)
+
 
 ### Admin - Add Shows
-![Add Shows](YOUR_ADD_SHOWS_SCREENSHOT_LINK_HERE)
+![Add Shows](https://github.com/maliha-yasmin-mim/SHOWTIME/blob/main/Project_Screenshots/Admin_pages_image/02-Add_Shows/03-To_add_shows(select%20movie%20%2B%20set%20times%20and%20price).png?raw=true)
+
+### Admin - List Shows
+![List Shows](https://github.com/maliha-yasmin-mim/SHOWTIME/blob/main/Project_Screenshots/Admin_pages_image/03-LIst_Shows/01-List_shows_page.png?raw=true)
+
+### Admin - List Bookings
+![List Bookings](https://github.com/maliha-yasmin-mim/SHOWTIME/blob/main/Project_Screenshots/Admin_pages_image/04-List_Bookings/01-List_of_all_booking.png?raw=true)
 
 ## 🛠️ Technology Stack
 
@@ -241,9 +261,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MERN Stack Specialist  
 - Passionate about building scalable web applications  
 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/malihayasminmim](https://linkedin.com/in/malihayasminmim)  
-🐙 GitHub: [github.com/malihayasminmim](https://github.com/malihayasminmim)
+📧 Email: malihayasmin01.official@gmail.com  
+🐙 GitHub: [github.com/malihayasminmim](https://github.com/maliha-yasmin-mim)
+
+
+**Sanjana Afroj Faria**  
+- Full Stack Developer  
+- MERN Stack Specialist  
+- Passionate about building scalable web applications  
+
+
+📧 Email: malihayasmin01.official@gmail.com  
+
 
 ## 🙏 Acknowledgments
 
@@ -276,8 +305,12 @@ vercel
 
 ---
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
+**If you found this project helpful, please give it a star!**
+
+[![Stars](https://img.shields.io/github/stars/maliha-yasmin-mim/SHOWTIME?style=for-the-badge&logo=github&color=gold&label=GIVE%20A%20STAR)](https://github.com/maliha-yasmin-mim/SHOWTIME/stargazers)
 
 ---
 
 **Happy Coding!** 🎬🍿
+
+```
